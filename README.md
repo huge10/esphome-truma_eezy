@@ -6,7 +6,7 @@ See [Daniel Fett](https://github.com/danielfett/inetbox.py)'s original Python im
 
 ## Example configuation
 
-This example is just for connecting ESPHome to the CP Plus. See [truma.yaml](/truma.yaml) for an example config with all possible things configured.
+This example is for connecting ESPHome to the Truma Eezy.
 
 ```yaml
 esphome:
